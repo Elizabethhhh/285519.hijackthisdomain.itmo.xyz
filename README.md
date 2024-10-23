@@ -1,1 +1,1 @@
-# http-285519.hijackthisdomain.itmo.xyz-
+285519.hijackthisdomain.itmo.xyz
