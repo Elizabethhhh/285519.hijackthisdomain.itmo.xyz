@@ -1,1 +1,2 @@
-285519.hijackthisdomain.itmo.xyz
+student id: 285519
+Kuznetsova
